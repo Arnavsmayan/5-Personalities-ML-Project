@@ -1,7 +1,5 @@
 # Personality Classification Project
 
-![Personality Types](personality_types.jpg)
-
 This project aims to classify people into five personality types using the well-known Big Five personality traits. The Big Five personality traits provide a comprehensive model for understanding human personality, capturing five broad dimensions that define an individual's behavior and characteristics:
 
 1. Introversion vs. Extroversion
@@ -38,4 +36,4 @@ This project is licensed under the MIT License, which means you are free to use,
 
 ---
 
-I hope you find this project useful and insightful! If you have any questions or feedback, please don't hesitate to reach out. Happy classifying! 😊
+I hope you find this project useful and insightful! If you have any questions or feedback, please don't hesitate to reach out. Happy classifying!
