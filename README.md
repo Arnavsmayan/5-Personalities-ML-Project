@@ -1,4 +1,3 @@
-# 5-Personalities-ML-Project
 # Personality Classification Project
 
 ![Personality Types](personality_types.jpg)
