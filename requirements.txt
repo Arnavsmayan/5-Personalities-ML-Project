@@ -62,7 +62,7 @@ Jinja2==3.1.2
 joblib==1.2.0
 jsonpath-ng==1.5.3
 jsonpointer==2.3
-jsonschema==2.11.0
+jsonschema==4.17.3
 keras==2.13.1
 kiwisolver==1.4.4
 langchain==0.0.159
@@ -84,8 +84,6 @@ notebook_shim==0.2.2
 numexpr==2.8.4
 numpy==1.24.1
 oauthlib==3.2.2
-openai==0.27.8
-openapi-schema-pydantic==1.2.4
 opt-einsum==3.3.0
 packaging==23.0
 pandas==1.5.3
