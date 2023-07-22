@@ -63,7 +63,6 @@ joblib==1.2.0
 jsonpath-ng==1.5.3
 jsonpointer==2.3
 jsonschema==4.17.3
-kiwisolver==1.4.4
 langchain==0.0.159
 libclang==16.0.0
 Markdown==3.4.3
