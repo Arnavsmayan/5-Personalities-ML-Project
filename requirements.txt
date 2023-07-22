@@ -63,7 +63,7 @@ joblib==1.2.0
 jsonpath-ng==1.5.3
 jsonpointer==2.3
 jsonschema==4.17.3
-langchain==0.0.159
+langchain== 0.0.27
 libclang==16.0.0
 marshmallow==3.19.0
 marshmallow-enum==1.5.1
